@@ -22,6 +22,6 @@ The road that circles all around the perimeter of Iceland
 Instructions:
 Name top three cities you would like to travel to
 
-1.
-2.
-3.
+1.Kansas City
+2.Seattle
+3.Tokyo
